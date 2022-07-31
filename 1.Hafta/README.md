@@ -1,6 +1,7 @@
 # Kodluyoruz Frontend Bootcamp
  ## ÖDEV 1
  * cssbattle.dev'de 'Battle #13 - #70 Froggy' kodunun yazılması..	[Bu Linkten Ulaşabilirsiniz](https://cssbattle.dev/play/70)
+ 
  Code :
  ***
  ```
