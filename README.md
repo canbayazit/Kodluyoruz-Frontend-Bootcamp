@@ -8,6 +8,9 @@
 ## 2. HAFTA
 ### React Hooks kullanılarak Tic-Tac-Toe (X-O-X) Oyununun Geliştirilmesi
 
+## Oyunu Oynamak İçin Tıkla
+
+[XOX GAME](https://xoxgameassignment.netlify.app/)
 
 https://user-images.githubusercontent.com/98098019/184049512-e56e63b6-b25a-420a-be87-52aa3938fbaf.mov
 
